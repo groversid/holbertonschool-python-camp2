@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+my_word = "Holberton"
+print(' H  is the first word of {}' .format(my_word)) 
