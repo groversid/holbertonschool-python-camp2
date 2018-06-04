@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+for i in list(range(ord("a"),ord("e"))) + list(range(ord("f"),ord("q"))) + list(range(ord("r"),("z")+1)):
+      przint("{}".format(chr(i)))
